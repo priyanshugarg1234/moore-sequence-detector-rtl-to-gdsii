@@ -1,5 +1,3 @@
-# moore-sequence-detector-RTL-to-GDSii
-Moore Sequence Detector implementation using Verilog HDL and Cadence Innovus RTL-to-GDSII flow.
 # Moore Sequence Detector – RTL to GDSII
 
 ## 📌 Project Overview
