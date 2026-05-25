@@ -51,29 +51,6 @@ This project demonstrates the complete **RTL-to-GDSII implementation** of a **Mo
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-.
-├── RTL/
-├── Synthesis/
-├── Layout/
-├── Reports/
-├── Screenshots/
-└── README.md
-```
-
----
-
-## 📷 Project Screenshots
-
-* Innovus Layout
-* Timing Reports
-* Power Reports
-* Routing View
-
----
-
 ## 🎯 Learning Outcomes
 
 * Understanding complete RTL-to-GDSII flow
